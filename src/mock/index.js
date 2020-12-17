@@ -1,0 +1,7 @@
+import './api/system'
+import './api/mockuser'
+import './api/menus'
+import './api/department'
+import './api/dictionary'
+import './api/role'
+import './api/user'
